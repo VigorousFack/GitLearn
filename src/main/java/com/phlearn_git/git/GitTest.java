@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("帅浩第二次使用IDEA操作Git");
         System.out.println("帅浩第三次使用IDEA操作Git");
         System.out.println("帅浩第四次使用IDEA操作Git");
+        System.out.println("帅浩使用hot_fix操作Git");
     }
 }
