@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("帅浩第四次使用IDEA操作Git");
         System.out.println("帅浩使用hot_fix操作Git");
         System.out.println("帅浩使用master 检测冲突合并");
+        System.out.println("帅浩使用hot_fix 检测冲突合并");
     }
 }
