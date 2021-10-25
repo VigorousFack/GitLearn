@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("帅浩使用hot_fix 检测冲突合并");
         System.out.println("帅浩修改代码 检测push远程库");
         System.out.println("测试IDEA从远程库拉取");
+        System.out.println("测试ssh登录");
     }
 }
