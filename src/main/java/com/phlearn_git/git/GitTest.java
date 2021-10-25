@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("帅浩修改代码 检测push远程库");
         System.out.println("测试IDEA从远程库拉取");
         System.out.println("测试ssh登录");
+        System.out.println("okk，修改了，准备使用ssh拉取。。。");
     }
 }
